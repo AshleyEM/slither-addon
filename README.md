@@ -5,14 +5,14 @@ Give an armature a repeating slither animation. Quickly animate snakes, tentacle
 ![](demo1.gif)
 ![](demo2.gif)
 
-# ⬇️ Download Slither Addon
+# ⬇️ [Download Slither Addon](https://github.com/AshleyEM/slither-addon/archive/refs/tags/v1.0.0.zip)
 
 This is my first version, so it might be a bugfest.
 
-[Features](#Features)<br>
-[Install](#Install)<br>
-[Use](#Use)<br>
-[Limitations/Annoyances](#Limitations/Annoyances)<br>
+[Features](#Features) <br>
+[Install](#Install) <br>
+[Use](#Use) <br>
+[Limitations/Annoyances](#Limitations/Annoyances) <br>
 
 # Features
 
