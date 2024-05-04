@@ -12,7 +12,7 @@ This is my first version, so it might be a bugfest.
 [Features](#Features) <br>
 [Install](#Install) <br>
 [Use](#Use) <br>
-[Limitations/Annoyances](#Limitations/Annoyances) <br>
+[Limitations](#Limitations) <br>
 
 # Features
 
@@ -46,7 +46,8 @@ Your armature should be a connected chain of bones, with or without an IK handle
 The head/tail animations are separate. To animate a full snake body, create a half-head-half-tail rig and apply the head/tail animations separately. You may have to move and scale the keyframes so that the head/tail animations synch up.
 
 
-# 🥀 Limitations/Annoyances
+# Limitations
+🥀 Some annoyances:
 * Head/tail animations are separate due to the head-tail nature of Blender bones
 * Can only animate along 1 axis at a time
 * Animation speed is scaled by the number of bones, not constant
