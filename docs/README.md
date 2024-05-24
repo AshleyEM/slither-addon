@@ -5,7 +5,7 @@ Easy way to make an armature slither. Quickly animate snakes, tentacles, fish, l
 ![](demo1.gif)
 ![](demo2.gif)
 
-# ⬇️ [Download Slither Addon](https://github.com/AshleyEM/slither-addon/archive/refs/tags/v1.0.0.zip)
+# ⬇️ [Download Slither Addon](https://github.com/AshleyEM/slither-addon/releases/download/v1.0.0/slither.zip)
 
 [Install](#Install)<br>
 [Use](#Use)<br>
