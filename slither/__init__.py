@@ -8,7 +8,7 @@ bl_info = {
 }
 
 import bpy
-from slither import slither
+from .slither import animate_slither
 
 # Execute: Apply
 class ApplyOperator(bpy.types.Operator):
@@ -18,7 +18,7 @@ class ApplyOperator(bpy.types.Operator):
     
     # Execute slither(), pass Properties as args
     def execute(self, context):
-        slither(
+        animate_slither(
             bpy.context.scene.tail,
             bpy.context.scene.amplitude,
             bpy.context.scene.flexibility,

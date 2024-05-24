@@ -2,7 +2,7 @@ import bpy
 import math
 import mathutils
 
-def slither(tail, amp, flex, axis, duration, speed):
+def animate_slither(tail, amp, flex, axis, duration, speed):
 
     # Selected bones (armature)
     arm = bpy.context.selected_pose_bones
