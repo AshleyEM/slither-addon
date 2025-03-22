@@ -50,14 +50,14 @@ The head/tail animations are separate. To animate a full snake body, create a ha
 
 
 # 🥀 Limitations
-* Head/tail animations are separate due to the head-tail nature of Blender bones
-* Can only animate along 1 axis at a time
+* Head/tail animations must be impleneted separately due to the head-tail nature of Blender bones
+* Can only slither along 1 axis
 * Animation speed is scaled by the number of bones, not constant
 
 
 # For the eggheads
 
-The math behind this is just a repeating sine wave function tamed into submission: 
+The math behind this is just a repeating sine wave function: 
 
 `Amplitude * Nth bone * sin(Angle +/- (Nth bone * Flexibility))`
 
