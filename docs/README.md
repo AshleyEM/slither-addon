@@ -7,11 +7,6 @@ Easy way to make an armature slither. Quickly animate snakes, tentacles, fish, l
 
 # ⬇️ [Download Slither Addon](https://github.com/AshleyEM/slither-addon/releases/download/v1.0.0/slither.zip)
 
-[Install](#Install)<br>
-[Use](#Use)<br>
-[Features](#Features)<br>
-[Limitations](#Limitations)<br>
-
 # Install
 1. Download the addon (above)
 2. In Blender, go to **Edit > Preferences** 
@@ -41,7 +36,7 @@ Your armature should be a connected chain of bones, with or without an IK handle
 * **Flexibility:** stiff (dinosaur tail) or loose (tentacle)
 * **Head or tail:** start slither from head or tail
 * **Speed:** keyframe spacing
-* **Duration:** how long the animation is
+* **Duration:** animation duration
 
 
 # Animate a full snake body
@@ -50,7 +45,7 @@ The head/tail animations are separate. To animate a full snake body, create a ha
 
 
 # 🥀 Limitations
-* Head/tail animations must be impleneted separately due to the head-tail nature of Blender bones
+* Head/tail animations must be implemented separately due to the head-tail nature of Blender bones
 * Can only slither along 1 axis
 * Animation speed is scaled by the number of bones, not constant
 
